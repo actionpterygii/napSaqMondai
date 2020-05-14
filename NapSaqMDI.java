@@ -449,7 +449,7 @@ public class NapSaqMDI
 				}
 			}
 
-			if(SAISYU_YEN < SAISYU_YEN_BUFF)
+			if(SAISYU_GRM < SAISYU_GRM_BUFF)
 			{
 				SAISYU_YEN = 0;
 				SAISYU_YEN = SAISYU_YEN_BUFF;
